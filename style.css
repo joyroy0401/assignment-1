@@ -1,0 +1,271 @@
+
+*{margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+  
+}
+.header-up{
+    width: 960px;
+    margin: 0 auto;
+
+
+display: block;
+overflow: hidden;
+margin-top: 3%;
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+text-transform: uppercase;
+color: #000000;
+
+}
+
+.top-section{
+    width: 960px;
+    margin: 0 auto;
+}
+.main_menu{
+    float: right;
+    display: block;
+    font
+}
+
+.main_menu ul li{
+display: inline-block;
+
+} 
+
+.main_menu ul li a{
+text-decoration: none;
+padding: 10px;
+color: #000000;
+}
+
+.first_section{
+width: 40%;
+float: left;
+margin-top: 20%;
+}
+.nob{
+    margin-bottom: 30px;
+    font-family:'Roboto', sans-serif;
+    line-height: 25px;
+    text-align: justify;
+    font-size: 20px;
+}
+.divition h1{
+    text-transform: uppercase ;
+    font-size: 50px;
+    line-height: 60px;
+}
+.divition h1.rob{
+color: orangered;
+}
+
+.divition a{
+    text-decoration: none;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin: 30px 0;
+
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.second_divition img{
+    width: 40%;
+    margin: 10% 0 0 20%;
+    
+
+}
+.thrid_divition img{
+    width: 40%;
+    margin: 10% 20% 0 0;
+    
+    display: inline-block;
+    float: left;
+    
+}
+
+.thrid_section h1{
+    font-size: 30px;
+}
+.thrid_section{
+    width: 40%;
+   
+    display: inline-block;
+    margin-top: 15%;
+    
+}
+.thrid_section a{
+    background-color: orangered;
+
+    color: #fff;
+    text-decoration: none;
+    font-family:'Roboto', sans-serif; 
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 30px;
+    padding: 15px 20px;
+    overflow: hidden;
+    border-radius: 10px;
+
+    
+}
+.thrid_section a img{
+    width: 18px;
+    margin-right: 10px;
+ 
+    
+}
+
+.project{
+    background-color: #ededed;
+    height: 600px;
+    margin-top: 300px;
+    }
+
+.project_head h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.lat{
+    color: orangered;
+}
+
+.Latest_project{
+    width: 960px;
+    margin: 0 auto;
+}
+.Latest_project .project_one{
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 400px;
+ padding: 20px;
+  background-color: #fff;
+
+}
+.project_master {
+   display: flex;
+
+}
+.project_master h2{
+    margin: 10px 0;
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+}
+.project_master img {
+    width: 100%;
+ }
+ .project_master p{
+     font-family:'Roboto', sans-serif;
+     font-size: 15px;
+     line-height: 24px;
+     text-align: justify;
+     font-weight: 200px
+     ;
+ }
+ .project_two {
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 400px;
+ padding: 20px;
+  background-color: #fff;
+  margin: 0 3%;
+
+ }
+
+ .project_three {
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  height: 400px;
+ padding: 20px;
+  background-color: #fff;
+
+ }
+.work_inquiry{
+    width: 40%;
+    margin: 0 auto;
+    
+}
+.work_section{
+    background-image: url("image/query.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10% 0;
+    box-shadow: 5px 5px 20px gray;
+  border-radius: 10px;
+  padding: 5px;
+ 
+  overflow: hidden;
+}
+
+.work_section h2{
+  color: #fff;
+ display: inline-block;
+margin: 30px 10px;
+font-size: 30px;
+}
+
+
+.work_section a{
+    color: #fff;
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    background-color: orangered;
+    padding: 10px 20px ;
+    float: right;
+    border-radius: 5px;
+    margin: 30px 10px;
+}
+
+.social_media{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.connected p{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    margin: 3% 0;
+}
+.email{
+    text-align: center;
+}
+.email a{
+    font-weight: 600;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    font-family:'Roboto', sans-serif;
+    margin-bottom: 5%;
+    display: block;
+
+}
+.socail{
+    display: flex;
+    width: 30px;
+    margin: 3% 39%;
+}
+.socail img{
+    width: 50px;
+    margin: 0 30%;
+    
+  
+}
+
+.socail img.guru{
+    
+}
